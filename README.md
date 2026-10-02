@@ -154,7 +154,7 @@ curl -X POST http://localhost:8201/admin/api/login \
 
 ```bash
 # 1. Clone
-git clone https://github.com/hasan/vps-rental.git
+git clone https://github.com/haxan100/vps-rental.git
 cd vps-rental
 
 # 2. Build
